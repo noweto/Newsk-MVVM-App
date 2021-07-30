@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home_fragment"
+    >
+
+    <fragment
+        android:name="com.noweto.newzk.ui.fragments.HomeFragment"
+        android:id="@+id/home_fragment"
+        tools:layout="@layout/fragment_home"
+        >
+
+        <!-- When you click any item in this fragment .. load more details -->
+
+        <action
+            android:id="@+id/from_home_to_global_details"
+            app:destination="@id/global_details_fragment"
+            />
+        <action
+            android:id="@+id/from_home_to_local_details"
+            app:destination="@id/local_details_fragment"
+            />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/global_details_fragment"
+        android:name="com.noweto.newzk.ui.fragments.globalNewsFragment.GlobalDetailsFragment"
+        tools:layout="@layout/fragment_global_details"/>
+
+    <fragment
+        android:id="@+id/local_details_fragment"
+        android:name="com.noweto.newzk.ui.fragments.localNewsFragment.LocalDetailsFragment"
+        tools:layout="@layout/fragment_local_details"/>
+
+
+
+
+</navigation>

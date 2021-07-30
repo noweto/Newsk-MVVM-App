@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/drawable/eft_arrow.xml" value="0.25435897435897437" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/drawable/round_btn.xml" value="0.1" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/drawable/world_n.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout-v28/fragment_global_details.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/activity_splash.xml" value="0.121875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/fragment_global_details.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/fragment_global_news.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/fragment_home.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/fragment_local_details.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/fragment_local_news.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/fragment_more_details.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/home.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/Newzk/app/src/main/res/layout/news_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
